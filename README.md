@@ -24,7 +24,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 # RegisterNumber:  212222230128
 
 ```
-#### Importing necessary packages.
+#### Importing necessary libraries.
 ```python
 import numpy as np
 import seaborn as sns
